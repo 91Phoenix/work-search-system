@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WSS_Prototipo.MainForm" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BYCGAv0gCOAAASAKAkiCgAMeCoBAAMAAAgwQBjABLUE=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Program" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.Archivio" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAwAAAAAABAAAAAAABAAAAAAgEAgCgAACAAE=</HashCode>
+      <FileName>Model\Archivio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.AssociatedEventArgs" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Model\AssociatedEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.Associazione" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAABAAAAAAAAABAAAAAAAAAABACAAAAAAAIAAA=</HashCode>
+      <FileName>Model\Associazione.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.CalcoloBaseGraduatoria" Collapsed="true">
+    <Position X="1.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAAAAAAAAAEACAAAQAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Model\CalcoloBaseGraduatoria.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WSS_Prototipo.Model.CalcoloSuRichiesta" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CalcoloBaseGraduatoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.CalcoloSuOfferta" Collapsed="true">
+    <Position X="2.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CalcoloBaseGraduatoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.CalcoloBaseRequisiti" Collapsed="true">
+    <Position X="5.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Model\CalcoloBaseRequisiti.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WSS_Prototipo.Model.CalcoloRequisitiPiùRichiesti" Collapsed="true">
+    <Position X="5.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CalcoloBaseRequisiti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.CalcoloGraduatoriaFactory" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgA=</HashCode>
+      <FileName>Model\CalcoloGraduatoriaFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.CalcoloRequisitiFactory" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgA=</HashCode>
+      <FileName>Model\CalcoloRequisitiFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.DocumentoFactory" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAAAAAAA=</HashCode>
+      <FileName>Model\DocumentoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.DocumentoGenerico" Collapsed="true">
+    <Position X="6.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQABQAAAAEAAAAgAAAACBCAAACAgEACABAABIAAAAA=</HashCode>
+      <FileName>Model\DocumentoGenerico.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WSS_Prototipo.Model.OffertaDiLavoro" Collapsed="true">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACECQIAEAAAQAgAAAAAAQAAAABAAIAAAAAE=</HashCode>
+      <FileName>Model\OffertaDiLavoro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.RequisitoEventArgs" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Model\RequisitoEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.RequisitoFactory" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="WSS_Prototipo.Model.RequisitoFactory.Lingua" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\RequisitoFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="WSS_Prototipo.Model.RequisitoFactory.Competenza" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\RequisitoFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="WSS_Prototipo.Model.RequisitoFactory.Esperienza" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\RequisitoFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="WSS_Prototipo.Model.RequisitoFactory.Formazione" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\RequisitoFactory.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAAAAEAABAAACAABAAAAAAEAEAQAAAAAAAAAA=</HashCode>
+      <FileName>Model\RequisitoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.RequisitoPersonale" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAUAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAJAAAAA=</HashCode>
+      <FileName>Model\RequisitoPersonale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.RequisitoPersonaleDiCompetenza" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RequisitoPersonale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.RequisitoPersonaleDiEsperienza" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RequisitoPersonale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.RequisitoPersonaleDiFormazione" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RequisitoPersonale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.RequisitoPersonaleDiLingua" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RequisitoPersonale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.RequisitoPersonaleFactory" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAABAAACAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RequisitoPersonaleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.RichiestaDiLavoro" Collapsed="true">
+    <Position X="7.75" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAIBAQAiEAEAAEACACBAAAAAgAAAAAABAAAgEAAAE=</HashCode>
+      <FileName>Model\RichiestaDiLavoro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.SelezionatoreBuilder" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\SelezionatoreBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.SelezionatoreBase" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="WSS_Prototipo.Model.SelezionatoreBase._SelezionatoreDiTutto" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Selezionatori.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="WSS_Prototipo.Model.SelezionatoreBase._SelezionatoreDiNiente" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Selezionatori.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="WSS_Prototipo.Model.SelezionatoreBase._SelezionatoreDiRequisitiPiùRichiesti" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Selezionatori.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="WSS_Prototipo.Model.SelezionatoreBase.SelezionatoreDaLista" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Selezionatori.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAAACAEQgAAAEAAAAEAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Model\Selezionatori.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WSS_Prototipo.Model.SelezionatorePerTipologia" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Selezionatori.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.SelezionatorePerClasse" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAgAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Selezionatori.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.Selezione" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQAEAQAAABAEBAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Model\Selezione.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WSS_Prototipo.Model.StateAttribute" Collapsed="true">
+    <Position X="19" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\StateAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.Stato" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="WSS_Prototipo.Model.Stato.Disattivo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Stato.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="WSS_Prototipo.Model.Stato.Attivo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Stato.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gCQAIAAAAAAAQAAAAAAAAASAAACBgAAAAAgAAQAAABA=</HashCode>
+      <FileName>Model\Stato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Model.TipologiaFactory" Collapsed="true">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAAAgAAACAAAgAIAAAEAAAAAAAACAAAAEAAAAAAA=</HashCode>
+      <FileName>Model\TipologiaFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Persistence.RequisitiPersister" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistence\RequisitiPersister.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WSS_Prototipo.Persistence.TipologiePersister" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persistence\TipologiePersister.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.AssociazioneDialog" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQIABAAAACgAAACAAAAQAAAAgAAAQAQAEA=</HashCode>
+      <FileName>Presentazione\AssociazioneDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.DocumentControl" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hIApgAIACCiRgIAgAACAAgTHAEQAACDIGDhAIQBAxCQ=</HashCode>
+      <FileName>Presentazione\DocumentControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.DocumentDialog" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQCAAIAACABAAAAAACAAAACAAAAAAACABAAIQBAABA=</HashCode>
+      <FileName>Presentazione\DocumentDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.DocumentoViewPresenter" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Presentazione\DocumentoViewPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.EditableAttribute" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAABAAAEAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presentazione\EditableAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.EditingDialog" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAQAAAXAAAAAABACAAACGAAA4IQAAgqoEATAQgJA=</HashCode>
+      <FileName>Presentazione\EditingDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.EditingDocumentControl" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAAAAACiQEIAABACAAAADAEAAAABIEQAAAAACAAQ=</HashCode>
+      <FileName>Presentazione\EditingDocumentControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.EditingRequisitiControl" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAgBACQACIAABAgBEDAgAACCAQAAAABBDAEgQAQAEA=</HashCode>
+      <FileName>Presentazione\EditingRequisitiControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.EditingRequisitiDialog" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAcACAAAAAAAACAAAACAAAAAQQAABAAAQAAAEA=</HashCode>
+      <FileName>Presentazione\EditingRequisitiDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.GraduatoriaFittiziaControl" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAAAADAAAACAAAAAQAAAAAAAAAAAIA=</HashCode>
+      <FileName>Presentazione\GraduatoriaFittiziaControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.GraduatoriaFittiziaViewPresenter" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAQAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presentazione\GraduatoriaFittiziaViewPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.GraduatoriaViewPresenter" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presentazione\GraduatoriaViewPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.Presenter&lt;TControl&gt;" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASEAEAAAAAABQAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presentazione\Presenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.RequisitiFittiziControl" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACCIABBAIAACAgQAiAAAAAgABAAAAAQMAAAA=</HashCode>
+      <FileName>Presentazione\RequisitiFittiziControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.RequisitiFittiziDialog" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAAAAAACAAAACAAAAEQAAAAAAAQAAgAA=</HashCode>
+      <FileName>Presentazione\RequisitiFittiziDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.RequisitiViewControl" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAgAAAAAGAAFQAgQADAMAACAEACQAAAACAAIAIEAAA=</HashCode>
+      <FileName>Presentazione\RequisitiViewControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.RequisitiViewPresenter" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAEAAAAAAAQAAEAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presentazione\RequisitiViewPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Presentazione.SelectDialog" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAQAAAABAAAQASABA=</HashCode>
+      <FileName>Presentazione\SelectDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Properties.Resources" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSS_Prototipo.Properties.Settings" Collapsed="true">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WSS_Prototipo.Model.ICalcoloGraduatoria" Collapsed="true">
+    <Position X="10.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEACAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ICalcoloGraduatoria.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.ICalcoloRequisiti" Collapsed="true">
+    <Position X="12" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ICalcoloRequisiti.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.IDocumento" Collapsed="true">
+    <Position X="13.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAACAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IDocumento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.IRequisitiPersister" Collapsed="true">
+    <Position X="17.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IRequisitiPersister.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.IRequisitiLoader" Collapsed="true">
+    <Position X="15.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IRequisitiPersister.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.IRequisito" Collapsed="true">
+    <Position X="19" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAIAAAQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IRequisito.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.ISelezionatore" Collapsed="true">
+    <Position X="10.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ISelezionatore.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.ISelezione" Collapsed="true">
+    <Position X="12" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ISelezione.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.ITipologia" Collapsed="true">
+    <Position X="13.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ITipologia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.ITipologiePersister" Collapsed="true">
+    <Position X="17.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ITipologiePersister.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WSS_Prototipo.Model.ITipologieLoader" Collapsed="true">
+    <Position X="15.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Model\ITipologiePersister.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="WSS_Prototipo.Model.GradoDiValutazione" Collapsed="true">
+    <Position X="10.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Model\GradoDiValutazione.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WSS_Prototipo.Model.ModalitàDiConoscenza" Collapsed="true">
+    <Position X="12" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAABAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ModalitàDiConoscenza.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

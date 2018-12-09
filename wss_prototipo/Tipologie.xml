@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tipologie>
+  
+  <Categoria>
+    <Tipologia nome="Informatica"/>
+    <Tipologia nome="Meccanica"/>
+    <Tipologia nome="Elettronica"/>
+    <Tipologia nome="Ristorazione"/>
+  </Categoria>
+  
+  <LivelloDiIstruzione>
+    <Tipologia nome="Laurea Triennale"/>
+    <Tipologia nome="Laurea Magistrale"/>
+    <Tipologia nome="Diploma"/>
+  </LivelloDiIstruzione>
+  
+</Tipologie>

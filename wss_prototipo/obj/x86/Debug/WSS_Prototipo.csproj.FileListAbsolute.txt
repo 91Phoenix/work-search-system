@@ -1,0 +1,179 @@
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\bin\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\bin\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.MainForm.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Properties.Resources.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.AssociazioneDialog.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingControl.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDialog.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DataGridViewControl.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.SelectDialog.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.MainForm.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.AssociazioneDialog.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DataGridViewControl.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.SelectDialog.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Properties.Resources.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\bin\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\bin\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingControl.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDialog.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.MainForm.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.AssociazioneDialog.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDialog.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.SelectDialog.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Properties.Resources.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\bin\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\bin\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiViewControl.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentControl.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiDialog.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDocumentControl.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentDialog.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiControl.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.GraduatoriaFittiziaControl.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziControl.resources
+C:\Users\userwin7\Desktop\Ingegneria del Software\Progetto\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziDialog.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\bin\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\bin\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.MainForm.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.AssociazioneDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDocumentControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.GraduatoriaFittiziaControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiViewControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.SelectDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Properties.Resources.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo\WSS_Prototipo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.MainForm.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.AssociazioneDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDocumentControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.GraduatoriaFittiziaControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiViewControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiControl.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.SelectDialog.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Properties.Resources.resources
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.pdb
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.exe
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.pdb
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.MainForm.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziControl.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziDialog.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.AssociazioneDialog.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentDialog.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDocumentControl.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.GraduatoriaFittiziaControl.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiViewControl.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentControl.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDialog.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiControl.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiDialog.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.SelectDialog.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Properties.Resources.resources
+C:\Users\Raffaele\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.csproj.GenerateResource.Cache
+C:\Users\Alessio\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\Alessio\Dropbox\sbong\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.MainForm.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziControl.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziDialog.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.AssociazioneDialog.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentDialog.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDocumentControl.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.GraduatoriaFittiziaControl.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiViewControl.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentControl.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDialog.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiControl.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiDialog.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.SelectDialog.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Properties.Resources.resources
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\userwin7\Desktop\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Raffaele\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\Raffaele\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.exe
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.pdb
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.MainForm.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziControl.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziDialog.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.AssociazioneDialog.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentDialog.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDocumentControl.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.GraduatoriaFittiziaControl.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiViewControl.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentControl.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDialog.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiControl.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiDialog.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.SelectDialog.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Properties.Resources.resources
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\userwin7\Dropbox\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.exe
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.pdb
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.exe
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\bin\Debug\WSS_Prototipo.pdb
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.MainForm.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziControl.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiFittiziDialog.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.AssociazioneDialog.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentDialog.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDocumentControl.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.GraduatoriaFittiziaControl.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.RequisitiViewControl.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.DocumentControl.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingDialog.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiControl.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.EditingRequisitiDialog.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Presentazione.SelectDialog.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.Properties.Resources.resources
+C:\Users\Raffaele\Dropbox\condivise\sbong\Progetto_WSS\WSS_Prototipo - Calcolo Separato\WSS_Prototipo\obj\x86\Debug\WSS_Prototipo.csproj.GenerateResource.Cache

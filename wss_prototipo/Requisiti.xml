@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Requisiti>
+
+  <Esperienza>
+
+    <Requisito nome="Analista" tipologia="Informatica" />
+    <Requisito nome="Java" tipologia="Informatica" />
+    <Requisito nome="JavaScript" tipologia="Informatica" />
+    <Requisito nome="C#" tipologia="Informatica" />
+    <Requisito nome="Meccanico" tipologia="Meccanica" />
+    <Requisito nome="Elettraulico" tipologia="Elettronica" />
+    <Requisito nome="Elettrauto" tipologia="Meccanica"/>
+    <Requisito nome="Cuoco" tipologia="Ristorazione"/>
+    <Requisito nome="Cameriere" tipologia="Ristorazione"/>
+      
+  </Esperienza>
+
+  <Competenza>
+
+    <Requisito nome="Analista" tipologia="Informatica" />
+    <Requisito nome="Java" tipologia="Informatica" />
+    <Requisito nome="JavaScript" tipologia="Informatica" />
+    <Requisito nome="C#" tipologia="Informatica" />
+    <Requisito nome="Meccanico" tipologia="Meccanica" />
+    <Requisito nome="Elettraulico" tipologia="Elettronica" />
+    <Requisito nome="Elettrauto" tipologia="Meccanica"/>
+    <Requisito nome="Cuoco" tipologia="Ristorazione"/>
+    <Requisito nome="Cameriere" tipologia="Ristorazione"/>
+    
+  </Competenza>
+
+  <Formazione>
+
+    <Requisito nome="Liceo Scientifico" tipologia="Diploma" />
+    <Requisito nome="Ingegneria Informatica" tipologia="Laurea Triennale" />
+    <Requisito nome="Ingegneria Meccanica" tipologia="Laurea Magistrale" />
+    <Requisito nome="Agraria" tipologia="Diploma" />
+    <Requisito nome="Filosofia" tipologia="Laurea Magistrale" />
+    <Requisito nome="Psicologia" tipologia="Laurea Magistrale" />
+    <Requisito nome="Matematica" tipologia="Laurea Triennale"/>
+    <Requisito nome="Ingegneria Edile" tipologia="Laurea Triennale"/>
+    <Requisito nome="Informatica" tipologia="Laurea Magistrale"/>
+    
+  </Formazione>
+  
+  
+  <Lingua>
+
+    <Requisito nome="Inglese" tipologia="Parlato" />
+    <Requisito nome="Inglese" tipologia="Scritto" />
+    <Requisito nome="Italiano" tipologia="Comprensione" />
+    <Requisito nome="Italiano" tipologia="Scritto" />
+    <Requisito nome="Italiano" tipologia="Parlato" />
+    <Requisito nome="Francese" tipologia="Scritto" />
+    <Requisito nome="Francese" tipologia="Parlato" />
+    <Requsito nome="Spagnolo" tipologia="Scritto" />
+    <Requsito nome="Spagnolo" tipologia="Parlato" />
+    
+  </Lingua>
+  
+</Requisiti>

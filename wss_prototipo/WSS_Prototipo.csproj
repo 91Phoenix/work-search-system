@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A307F353-DCD4-4E69-8F6E-6F12478E1676}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WSS_Prototipo</RootNamespace>
+    <AssemblyName>WSS_Prototipo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Archivio.cs" />
+    <Compile Include="Model\AssociatedEventArgs.cs" />
+    <Compile Include="Model\Associazione.cs" />
+    <Compile Include="Model\CalcoloBaseRequisiti.cs" />
+    <Compile Include="Model\CalcoloGraduatoriaFactory.cs" />
+    <Compile Include="Model\CalcoloBaseGraduatoria.cs" />
+    <Compile Include="Model\CalcoloRequisitiFactory.cs" />
+    <Compile Include="Model\DocumentoFactory.cs" />
+    <Compile Include="Model\DocumentoGenerico.cs" />
+    <Compile Include="Model\GradoDiValutazione.cs" />
+    <Compile Include="Model\ICalcoloGraduatoria.cs" />
+    <Compile Include="Model\ICalcoloGraduatoriaFittizia.cs" />
+    <Compile Include="Model\ICalcoloRequisiti.cs" />
+    <Compile Include="Model\IDocumento.cs" />
+    <Compile Include="Model\IRequisitiPersister.cs" />
+    <Compile Include="Model\IRequisito.cs" />
+    <Compile Include="Model\ISelezionatore.cs" />
+    <Compile Include="Model\ISelezione.cs" />
+    <Compile Include="Model\ITipologia.cs" />
+    <Compile Include="Model\ITipologiePersister.cs" />
+    <Compile Include="Model\ModalitàDiConoscenza.cs" />
+    <Compile Include="Model\RequisitoEventArgs.cs" />
+    <Compile Include="Model\SelezionatoreBuilder.cs" />
+    <Compile Include="Model\Selezionatori.cs" />
+    <Compile Include="Model\Selezione.cs" />
+    <Compile Include="Model\StateAttribute.cs" />
+    <Compile Include="Model\OffertaDiLavoro.cs" />
+    <Compile Include="Model\RequisitoFactory.cs" />
+    <Compile Include="Model\RequisitoPersonale.cs" />
+    <Compile Include="Model\RequisitoPersonaleFactory.cs" />
+    <Compile Include="Model\RichiestaDiLavoro.cs" />
+    <Compile Include="Model\Stato.cs" />
+    <Compile Include="Model\TipologiaFactory.cs" />
+    <Compile Include="Persistence\RequisitiPersister.cs" />
+    <Compile Include="Persistence\TipologiePersister.cs" />
+    <Compile Include="Presentazione\RequisitiFittiziControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentazione\RequisitiFittiziControl.designer.cs">
+      <DependentUpon>RequisitiFittiziControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\RequisitiFittiziDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentazione\RequisitiFittiziDialog.designer.cs">
+      <DependentUpon>RequisitiFittiziDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\AssociazioneDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentazione\AssociazioneDialog.Designer.cs">
+      <DependentUpon>AssociazioneDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\DocumentDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentazione\DocumentDialog.Designer.cs">
+      <DependentUpon>DocumentDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\DocumentoViewPresenter.cs" />
+    <Compile Include="Presentazione\EditingDocumentControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentazione\EditingDocumentControl.designer.cs">
+      <DependentUpon>EditingDocumentControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\GraduatoriaFittiziaControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentazione\GraduatoriaFittiziaControl.Designer.cs">
+      <DependentUpon>GraduatoriaFittiziaControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\GraduatoriaFittiziaViewPresenter.cs" />
+    <Compile Include="Presentazione\GraduatoriaViewPresenter.cs" />
+    <Compile Include="Presentazione\RequisitiViewControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentazione\RequisitiViewControl.Designer.cs">
+      <DependentUpon>RequisitiViewControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\RequisitiViewPresenter.cs" />
+    <Compile Include="Presentazione\EditableAttribute.cs" />
+    <Compile Include="Presentazione\DocumentControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentazione\DocumentControl.Designer.cs">
+      <DependentUpon>DocumentControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\EditingDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentazione\EditingDialog.Designer.cs">
+      <DependentUpon>EditingDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\EditingRequisitiControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentazione\EditingRequisitiControl.designer.cs">
+      <DependentUpon>EditingRequisitiControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\Presenter.cs" />
+    <Compile Include="Presentazione\EditingRequisitiDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentazione\EditingRequisitiDialog.designer.cs">
+      <DependentUpon>EditingRequisitiDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentazione\SelectDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentazione\SelectDialog.Designer.cs">
+      <DependentUpon>SelectDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\RequisitiFittiziControl.resx">
+      <DependentUpon>RequisitiFittiziControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\RequisitiFittiziDialog.resx">
+      <DependentUpon>RequisitiFittiziDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\AssociazioneDialog.resx">
+      <DependentUpon>AssociazioneDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\DocumentDialog.resx">
+      <DependentUpon>DocumentDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\EditingDocumentControl.resx">
+      <DependentUpon>EditingDocumentControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\GraduatoriaFittiziaControl.resx">
+      <DependentUpon>GraduatoriaFittiziaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\RequisitiViewControl.resx">
+      <DependentUpon>RequisitiViewControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\DocumentControl.resx">
+      <DependentUpon>DocumentControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\EditingDialog.resx">
+      <DependentUpon>EditingDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\EditingRequisitiControl.resx">
+      <DependentUpon>EditingRequisitiControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\EditingRequisitiDialog.resx">
+      <DependentUpon>EditingRequisitiDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentazione\SelectDialog.resx">
+      <DependentUpon>SelectDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Requisiti.xml" />
+    <None Include="Resources\WSS  - Logo.jpg" />
+    <Content Include="Tipologie.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
