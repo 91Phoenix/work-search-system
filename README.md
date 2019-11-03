@@ -3,7 +3,7 @@ Development of an application using typical pattern and design principles of OO 
 
 ![Cannot visualize the img](./wws.JPG)
 
-![Cannot visualize the img](./WSS Design1.JPG)
+![Cannot visualize the img](./"WSS Design1".JPG)
 
 ![Cannot visualize the img](./WSS Design2.JPG)
 
