@@ -3,12 +3,12 @@ Development of an application using typical pattern and design principles of OO 
 
 ![Cannot visualize the img](./wws.JPG)
 
-![Cannot visualize the img](./"WSS Design1".JPG)
+![Cannot visualize the img](./"WSSDesign1".JPG)
 
-![Cannot visualize the img](./WSS Design2.JPG)
+![Cannot visualize the img](./WSSDesign2.JPG)
 
-![Cannot visualize the img](./WSS Design3.JPG)
+![Cannot visualize the img](./WSSDesign3.JPG)
 
-![Cannot visualize the img](./WSS Design4.JPG)
+![Cannot visualize the img](./WSSDesign4.JPG)
 
-![Cannot visualize the img](./WSS Design5.JPG)
+![Cannot visualize the img](./WSSDesign5.JPG)
